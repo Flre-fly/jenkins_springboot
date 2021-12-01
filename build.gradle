@@ -40,7 +40,7 @@ test {
 tasks.jar {
     enabled = false
 }
-
+//test1
 tasks.bootJar {
     enabled = true
     mainClassName = "com.example.demo.DemoApplication"
